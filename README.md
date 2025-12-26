@@ -27,7 +27,7 @@ Here, we classify all the latent space based methods two categories, and sort by
 - [🔥 Methods](#-methods)
   - [Large-Language-Model](#Large-Language-Model)
   - [Vision-Language-Model](#Vision-Language-Model)
-  - [Multi-agent-System](#Multi-agent-System)
+  - [Multi-Agent-System](#Multi-Agent-System)
   - [Vision-Language-Action-Model](#Vision-Language-Action-Model)
   - [World-Model](#World-Model)
 
@@ -120,7 +120,7 @@ Additionally, if you want to have any other issue, please add our wechat group.
 | 2025/12  | [Latent Implicit Visual Reasoning](https://arxiv.org/abs/2512.21218)                                                                                                       | <img width="700" alt="image" src="img/vlm/2512_livr.png">      | -                                                             |
 
 
-### Multi-agent-System
+### Multi-Agent-System
 | Date     | Paper Title                                                                                                                                               | Introduction                                                     | Code                                             |
 |----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|--------------------------------------------------|
 | 2025/10  | [Cache-to-Cache: Direct Semantic Communication Between Large Language Model](https://arxiv.org/abs/2510.03215)                                            | <img width="700" alt="image" src="img/mas/2510_c2c.png">         | [Github](https://github.com/thu-nics/C2C)        |
